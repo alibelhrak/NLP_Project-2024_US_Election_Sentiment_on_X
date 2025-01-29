@@ -17,7 +17,7 @@ Matplotlib (Visualization)
 📂 Files Included:
 
 model.h5: The saved model.
-history.pkl: The training history (accuracy/loss over epochs).
+training_history.json : The training history (accuracy/loss over epochs).
 The dataset used for training.
 Feel free to check out the model, training history, and contribute to further improvements!
 
